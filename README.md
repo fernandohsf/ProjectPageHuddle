@@ -1,5 +1,6 @@
 # Quest 1 do curso Dev quest
-Exercicio consiste em reproduzir o layout solicitado. Essas são as versões finais
+Exercicio consiste em reproduzir o layout solicitado. Essas são as versões finais. 
+https://fernandohsf.github.io/quest1/
 ### Desktop (1440px)
 ![image](https://user-images.githubusercontent.com/17659168/219399827-56f98631-96c8-4b31-b44e-fa6ff8e0b781.png)
 ### Versão mobile (375px)
