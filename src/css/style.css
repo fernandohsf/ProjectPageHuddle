@@ -1,0 +1,103 @@
+html{
+    font-size: 62.5%;
+}
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+}
+.main{
+    background:hsl(257, 40%, 49%) url(../images/bg-desktop.svg) no-repeat;
+    background-size: contain;
+    max-width: 1440px;
+}
+.logo{
+    padding: 40px;
+}
+.corpo{
+    display: flex;
+    color: white;
+    padding: 40px;
+}
+.image{
+    width: 90%;
+}
+.conteudo{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+    padding: 40px;
+}
+.conteudo .titulo{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    font-size: 4rem;
+    margin-bottom: 20px;
+}
+.conteudo p{
+    font-size: 2rem;
+    margin-bottom: 40px;
+}
+.conteudo .botao{
+    border-radius: 40px;
+    padding: 12px 50px;
+    font-size: 1.6rem;
+    color:hsl(257, 40%, 49%);
+    background-color: white;
+    box-shadow:2px 2px 2px 2px rgba(0, 0, 0, 0.2) ;
+    transition: 0.3s;
+}
+.conteudo .botao:hover{
+    color: white;
+    background-color: hsl(300, 69%, 71%);
+}
+.social{
+    display: flex;
+    justify-content: flex-end;
+    margin-bottom: 40px;
+    margin-right: 100px;
+}
+.social a{
+    color: white;
+    margin-left: 20px;
+}
+.social i{
+    font-size: 3rem;
+    transition: 0.3s;
+}
+.social a:hover{
+    color: hsl(300, 69%, 71%);
+}
+@media(max-width:1100px){
+    .logo{
+        width: 60%;
+    }
+    .corpo{
+        flex-direction: column;
+        align-items: center;
+    }
+    .conteudo{
+        text-align: center;
+    }
+    .social{
+        display: flex;
+        justify-content: center;
+        margin: 0 0 40px 0;
+    }
+}
+@media(max-width:375px){
+    .conteudo{
+        padding: 5px;
+        margin-top: 30px;
+    }
+    .conteudo .titulo{
+        font-size: 2.5rem;
+    }
+    .conteudo p{
+        font-size: 1.5rem;
+    }
+    .conteudo .botao{
+        font-size: 1.4rem;
+        padding: 13px 90px;
+    }
+}
