@@ -4,6 +4,6 @@ https://fernandohsf.github.io/ProjectPageHuddle/
 ### Desktop (1440px)
 ![image](https://user-images.githubusercontent.com/17659168/219399827-56f98631-96c8-4b31-b44e-fa6ff8e0b781.png)
 ### Versão mobile (375px)
-![image](https://user-images.githubusercontent.com/17659168/219400165-2f407fca-96aa-4bd6-9947-58976e01a289.png)
+![image](https://user-images.githubusercontent.com/17659168/219414704-73683d61-1f5d-4f9f-b8c8-6df1b0dc2c8b.png)
 
 
