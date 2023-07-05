@@ -6,7 +6,7 @@ Exercicio consiste em reproduzir o layout solicitado usando apenas HTML e CSS. E
 ### Versão mobile (375px)
 ![image](https://user-images.githubusercontent.com/17659168/219414704-73683d61-1f5d-4f9f-b8c8-6df1b0dc2c8b.png)
 ## Linguagens utilizadas
-HMTL
-CSS
+ - HMTL
+ - CSS
 
 
